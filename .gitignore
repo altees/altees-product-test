@@ -1,0 +1,11 @@
+*.project
+*.settings
+*.classpath
+target/
+node-modules/
+*.dbeaver-data-sources.xml
+*.log
+*.1
+*.iml
+*.idea
+logs/
